@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="space-y-4">
             {/* Added hover animation for brand name */}
             <h3 className="text-xl font-bold text-amber-400 mb-4 hover:text-amber-300 transition-colors duration-300">
-              YourBrand
+              PLanet 09 AI
             </h3>
             <p className="mb-4">
               A modern starter template with a clean design using black, gold, and silver gray colors.

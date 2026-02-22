@@ -1,17 +1,17 @@
-import React from 'react';
+
 
 const Features = () => {
   const features = [
     {
-      title: 'Responsive Design',
+      title: 'Adaptive Design  ',
       description: 'Fully responsive layout that looks great on all devices from mobile to desktop.'
     },
     {
-      title: 'Modern Stack',
+      title: 'Modern Tech Stack',
       description: 'Built with React, TypeScript, and Tailwind CSS for a modern development experience.'
     },
     {
-      title: 'Easy Customization',
+      title: 'Highly Customizable',
       description: 'Simple to customize with Tailwind utility classes and component-based architecture.'
     }
   ];
