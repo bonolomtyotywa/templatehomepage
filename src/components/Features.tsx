@@ -3,15 +3,15 @@
 const Features = () => {
   const features = [
     {
-      title: 'Adaptive Design  ',
+      title: 'Responsive Design  ',
       description: 'Fully responsive layout that looks great on all devices from mobile to desktop.'
     },
     {
-      title: 'Modern Tech Stack',
+      title: 'Modern Stack',
       description: 'Built with React, TypeScript, and Tailwind CSS for a modern development experience.'
     },
     {
-      title: 'Highly Customizable',
+      title: 'Easy Customization',
       description: 'Simple to customize with Tailwind utility classes and component-based architecture.'
     }
   ];
